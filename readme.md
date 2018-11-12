@@ -13,4 +13,4 @@ node index.js
 localhost:3000/helloWorld
 ```
 
-*The url has a port number which depends on the environment you use to run the app. Check the config.js for more clarity.
+*The URL has a port number which depends on the environment you use to run the app. Check the config.js for more clarity.
