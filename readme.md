@@ -8,7 +8,9 @@ I have removed some parts of the code as designed in the course (like trimming d
 ```
 node index.js
 ```
-4. Use postman to send a post request to 
+4. Use postman to send a post request to following url*
 ```
-localhost/helloWorld
+localhost:3000/helloWorld
 ```
+
+*The url has a port number which depends on the environment you use to run the app. Check the config.js for more clarity.
