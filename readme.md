@@ -8,7 +8,7 @@ I have removed some parts of the code as designed in the course (like trimming d
 ```
 node index.js
 ```
-4. To get a JSON response, use Postman, or any other similar application, to send a post request to following url*
+4. To get a JSON response, use Postman, or any other similar application, to send a post request to following URL*
 ```
 localhost:3000/helloWorld
 ```
